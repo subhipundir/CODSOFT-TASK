@@ -42,6 +42,9 @@ TECHNOLOGIES USED:
  6. Prediction
  7. Performance Evaluation
 
+SAMPLE INRERACTION:
+<img width="990" height="448" alt="image" src="https://github.com/user-attachments/assets/afc41d6b-9e89-4ed6-8ae1-a65c1d43112a" />
+
 Author
 
 Subhi Pundir
