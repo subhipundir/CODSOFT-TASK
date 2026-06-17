@@ -110,4 +110,88 @@ LEARNING OUTCOMES
 5. Python Programming
 
 
+  TASK 4: Sales Prediction Using Python
+
+OVERVIEW:
+
+This project focuses on predicting sales using machine learning techniques in Python. The model analyzes advertising expenditures and other relevant factors to estimate future sales performance, helping businesses make data-driven decisions.
+
+FEATURES:
+
+-Data loading and preprocessing
+
+-Exploratory Data Analysis (EDA)
+
+-Data visualization
+
+-Feature selection
+
+-Machine Learning model training
+
+-Sales prediction and evaluation
+
+ TECHNOLOIES USED:
+
+1.Python
+
+2.Pandas
+
+3.NumPy
+
+4.Matplotlib
+
+5.Seaborn
+
+6.Scikit-learn
+
+7.Jupyter Notebook
+
+DATASET:
+
+The dataset contains advertising and sales-related information, including:
+
+-TV Advertising Budget
+
+-Radio Advertising Budget
+
+-Newspaper Advertising Budget
+
+-Sales Revenue
+
+PROJECT WORKFLOW:
+
+1. Data Collection
+
+2. Data Cleaning and Preprocessing
+
+3. Exploratory Data Analysis (EDA)
+
+4. Data Visualization
+
+5. Model Training
+
+6. Sales Prediction
+
+7. Model Evaluation
+
+OBJECTIVE:
+
+The objective of this project is to build a predictive model that accurately estimates sales based on advertising investments across different marketing channels.
+
+RESULTS:
+
+The machine learning model demonstrates the relationship between advertising expenditure and sales performance, enabling more informed marketing and business decisions.
+
+FUTURE IMPORVEMENTS:
+
+Use advanced machine learning algorithms
+
+Hyperparameter tuning
+
+Deployment as a web application
+
+Real-time sales forecasting
+
+
+
     
